@@ -1,1 +1,3 @@
 Total numbes of hours working on the project is : 41
+
+To compile the code in c, type: "gcc filename.c -lm" on mac osx, and "gcc -lm filename.c " on ubuntu.
